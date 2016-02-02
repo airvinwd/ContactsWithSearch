@@ -1,0 +1,4 @@
+# ContactsWithSearch
+拥有分组和搜索功能
+基于项目SearchContactsDemo和BeautyAddressBook
+将两者的优点结合起来，并修复了一个搜索的bug。
